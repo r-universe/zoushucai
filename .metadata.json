@@ -1,5 +1,6 @@
 [
   {
-    "package": "journalabbr"
+    "package": "journalabbr",
+    "oncran": true
   }
 ]
